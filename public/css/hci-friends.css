@@ -9,6 +9,11 @@
 	color: #CC00AA;
 }
 
+/* setting image size */
+.friends {
+	max-width: 225px;
+}
+
 h1, h2, h3, h4, h5 {
 	color: #8382BF;
 }
